@@ -1,0 +1,22 @@
+body{background-color: rgba(111, 10, 179, 0.541);
+font-weight: bold;
+}
+#divAddres{
+    color: rgb(5, 4, 5);
+    font-size: larger ;
+}
+#hId{
+    padding: 30px;
+    border: solid rgb(0, 0, 0);
+}
+#services{
+    font-size:larger;
+    border: solid;
+    
+}
+
+#contact{
+    font-size: larger;
+    padding: 20px;
+    font-size: xx-large;
+}
